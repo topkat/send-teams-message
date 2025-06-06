@@ -1,6 +1,6 @@
 {
   "name": "send-teams-message",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "description": "Send teams message from your nodeJs scripts",
   "main": "sendTeamsMessage.js",
